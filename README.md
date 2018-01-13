@@ -22,3 +22,5 @@ Your wife's mother's father's brother is your grand uncle in-law.
 Enter a family relationships (or 'help'): my husband's father's sister's son
 Your husband's father's sister's son is your cousin in-law.
 ```
+## Instructions
+To compile, ``javac FamilyRelation.java``, to run ``java FamilyRelation``
